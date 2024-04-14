@@ -183,7 +183,7 @@ header a .color {
 }
 
 @media screen and (max-width: 767px) {
-    .section3 .row {
+    .section3 {
         padding: 0 0 90px 0;
     }
 
